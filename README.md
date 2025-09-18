@@ -1,2 +1,2 @@
 # HTML
-this is a html code
+This is a HTML Code.
